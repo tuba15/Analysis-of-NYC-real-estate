@@ -14,7 +14,7 @@ An analysis of **descriptive** and **predictive analytics** on commercial, resid
 
 ## 📌 Overview
 
-This Power BI dashboard explores residential property sales trends in **Elmhurst, Queens (NYC)** between 2003 and 2023. Designed to support strategic decisions for real estate expansion, the project integrates **descriptive analytics**, **data modeling**, and **DAX-based KPIs** to uncover actionable insights.
+This Power BI dashboard explores residential property sales trends in **Elmhurst, Queens (NYC)** between 2003 and 2023. Designed to support strategic decisions for real estate expansion, the project integrates **descriptive analytics**, **data modeling**, and **DAX-based KPIs** to uncover actionable insights.The server dataset is taken is 
 
 As an aspiring Business Analyst, this project demonstrates my ability to translate data into business strategies using technical tools and analytical reasoning.
 
@@ -100,5 +100,8 @@ As an aspiring Business Analyst, this project demonstrates my ability to transla
 **Tuba Anwar**  
 MS in Applied Business Analytics, Boston University  
 📧 tubaanwar135@gmail.com  
-🌐 [LinkedIn](www.linkedin.com/in/tuba-anwar-a90a7823a) 
+🔗 [CLICK here to view LinkedIn](www.linkedin.com/in/tuba-anwar-a90a7823a) 
+
+
+
 
